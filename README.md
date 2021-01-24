@@ -4,10 +4,12 @@ in this project we will provide et Class DataFrame, with would compare ther part
 
 # requirements.
 to make this project work into your environement we need following dependencies:
+
 	- pandas: you can  quick install it running the command pip install pandas
 	- seaborn: you can quick install it running the command pip install seaborn
 	- matplotlib: you can quick install it running the command pip install matplotlib
 	- and of course python
+	
 all this requirements.txt a listed in the file requirement.txt. it is possible to install all with pip install -r requirements.txt
 	
 	
